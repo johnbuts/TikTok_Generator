@@ -1,0 +1,8 @@
+tkinter
+ttkthemes
+moviepy
+torch
+TTS
+wave
+openai-whisper
+Pillow  
