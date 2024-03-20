@@ -9,3 +9,5 @@ After this, you need to install ImageMagick https://imagemagick.org/index.php
 
 Useage:
 Now that you've installed everything, let me provide a step by step guide on how to get started generating those videos
+
+![alt text](https://imgur.com/a/0nl19Qd)
