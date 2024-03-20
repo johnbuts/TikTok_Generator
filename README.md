@@ -2,7 +2,7 @@
 Do you ever see those youtube short videos that have a stimulating background video and word for word captions of someone reading a reddit story? And then shortly after watching that video with millions and millions of views, do you wonder if you could create something like that? Well you can now with this innovative program!!! 
 
 <h2><b>Generated video using this repository</b></h2>
-![Alt text](https://www.youtube.com/watch?v=bsPMRzrjnb0)
+[![Watch the video](https://img.youtube.com/vi/bsPMRzrjnb0/0.jpg)](https://www.youtube.com/watch?v=bsPMRzrjnb0)
 
 <h1><b>Installation Guide</b></h1>
 Start off by making sure your python > 3.10, and then install the requirements.txt.
