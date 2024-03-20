@@ -196,7 +196,7 @@ def show_third_page(id, final_duration):
         video = VideoFileClip(video_path)
         clips = [video]  # Start with the original video
         #vid_width, vid_height = video.size
-        font_path = r"/mnt/c/Users/autor/Downloads/Koblenz-Serial-Heavy.ttf"
+        font_path = r"../subtitles/Koblenz-Serial-Heavy.ttf"
         #print(TextClip.list('color'))
 
         for i, word_obj in enumerate(word_objects):
