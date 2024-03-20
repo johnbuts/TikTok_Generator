@@ -3,6 +3,8 @@ Do you ever see those YouTube short videos that have a stimulating background vi
 
 <h1><b>Generated video using this repository</b></h1>
 
+you can change the voice, text being read, background video, and much more!
+
 https://github.com/johnbuts/TikTok_Generator/assets/66661618/db26e949-c0c6-49ed-92bf-24ac10d40dba
 
 <h1><b>Installation Guide</b></h1>
